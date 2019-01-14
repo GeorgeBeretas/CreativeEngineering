@@ -182,7 +182,7 @@ body {
 	
 	.box{
 		width:100%;
-		height: auto;
+		height: -webkit-fill-available;
 		margin: 0;
 		margin-top: 1em;
 		background-color: white;
